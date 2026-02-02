@@ -11,8 +11,4 @@ $ make
 ```
 
 if you on linux:
-```console
-$ git clone https://github.com/sralnik99/idk
-$ cd idk
-$ gcc #or any other compiler src/main.c # or test.c
-```
+:poop:
