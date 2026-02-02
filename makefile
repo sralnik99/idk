@@ -2,9 +2,9 @@
 # Wont work on linux
 
 compile_main:
-	cl main.c
+	cl src/main.c
 	./main.exe
 
 compile_test:
-	cl test.c
+	cl src/test.c
 	./test.exe
